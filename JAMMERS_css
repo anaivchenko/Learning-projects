@@ -22,6 +22,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
   color: white;
+  font: circe;
   
 }
 fieldset{
@@ -30,4 +31,5 @@ fieldset{
   margin-bottom: 50px;
   margin-top: 50px;
   border-radius: 20px;
+  width: 400px;
 }
