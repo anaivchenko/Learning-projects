@@ -1,0 +1,33 @@
+.button-link{
+  display: inline-block;
+    padding: 10px 20px;
+    background-color: #C41414;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    font-size: 16px;
+}
+
+.button-link:hover {
+    background-color: #45a049;
+}
+body{
+  justify-content: center;
+  text-align: center;
+  background-image: url('hhttps://imgur.com/a/y8uuKmE');
+    background-size: cover;
+    background-repeat: no-repeat;
+  color: white;
+  
+}
+fieldset{
+  background-color: white;
+  color: black;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
