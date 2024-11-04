@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>The Jammers confirmation page</title>
+    <link rel="stylesheet" href="JAMMERS-css.css">
   </head>
   <body>
     <section>
