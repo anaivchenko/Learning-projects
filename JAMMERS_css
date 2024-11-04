@@ -31,5 +31,6 @@ fieldset{
   margin-bottom: 50px;
   margin-top: 50px;
   border-radius: 20px;
-  width: 400px;
+  width: 500px;
+  justify-self: center;
 }
