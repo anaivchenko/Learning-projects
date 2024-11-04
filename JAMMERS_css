@@ -18,7 +18,7 @@
 body{
   justify-content: center;
   text-align: center;
-  background-image: url('hhttps://imgur.com/a/y8uuKmE');
+  background-image: url('https://imgur.com/a/y8uuKmE');
     background-size: cover;
     background-repeat: no-repeat;
   color: white;
