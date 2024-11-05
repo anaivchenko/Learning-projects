@@ -39,6 +39,8 @@ fieldset{
   margin-bottom: 50px;
   margin-top: 50px;
   border-radius: 20px;
+  border-width: 3px;
+  border-color: black;
   width: 500px;
   justify-self: center;
 }
