@@ -17,7 +17,7 @@
 }
 body{
   text-align: center;
-  background-image: url('DSC05524.jpg');
+  background-image: url('https://github.com/anaivchenko/Learning-projects/blob/c161817046d08c0a3fbccc2cc5caa176528fc35e/DSC05524.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
