@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('https://github.com/anaivchenko/Learning-projects/raw/refs/heads/main/CRC35.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Circe', sans-serif;
+}
 .button-link{
   display: inline-block;
     padding: 10px 20px;
