@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'Circe';
-    src: url('https://github.com/anaivchenko/Learning-projects/raw/refs/heads/main/CRC35.otf') format('otf');
-    font-weight: normal;
-    font-style: normal;
+    src: url('https://github.com/anaivchenko/Learning-projects/raw/refs/heads/main/CRC35.otf') format('opentype');
 }
 .button-link{
   display: inline-block;
@@ -24,11 +22,10 @@
 body{
   font-family: 'Circe', sans-serif;
   text-align: center;
-  background-image: url('https://github.com/anaivchenko/Learning-projects/blob/c161817046d08c0a3fbccc2cc5caa176528fc35e/DSC05524.jpg');
+  background-image: url('https://github.com/anaivchenko/Learning-projects/raw/c161817046d08c0a3fbccc2cc5caa176528fc35e/DSC05524.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-  font: circe;
   display: flex;
   justify-content: center;
   align-items: center;
