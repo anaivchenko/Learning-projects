@@ -4,7 +4,7 @@
     <title>The Jammers confirmation page</title>
     <link rel="stylesheet" href="JAMMERS-css.css">
   </head>
-  <body>
+  <body style="background-image: url('https://github.com/anaivchenko/Learning-projects/raw/c161817046d08c0a3fbccc2cc5caa176528fc35e/DSC05524.jpg'); background-size: cover;">
     <section>
         <fieldset>
           <header><h2>
